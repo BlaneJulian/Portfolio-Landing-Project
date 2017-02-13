@@ -1,6 +1,33 @@
+
+body {
+  background-color: yellow;
+}
+.notice {
+  font-family:'Dosis',sans-serif;
+  color: blue;
+}
+img.main {
+  float:center;
+  border-radius: 20%
+}
+.sidebar {
+  width:0.5%;
+  float: right;
+  background-color: orange;
+}
 h1 {
-  color:blue;
+  font-family: 'Dosis', sans-serif;
+  margin-top: 10%;
+  color :red;
 }
-img{
-  max-height:200px;
 }
+.this-class {
+  margin:0.5px;
+  border: 2px solid red;
+  padding: 60px;
+  background-color: yellow;
+}
+  .code {
+
+    p font-stretch: 3px;
+  }
