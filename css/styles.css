@@ -1,6 +1,7 @@
 
 body {
   background-color: yellow;
+  text-align: center;
 }
 .notice {
   font-family:'Dosis',sans-serif;
@@ -10,15 +11,13 @@ img.main {
   float:center;
   border-radius: 20%
 }
-.sidebar {
-  width:0.5%;
-  float: right;
-  background-color: orange;
+
 }
 h1 {
   font-family: 'Dosis', sans-serif;
   margin-top: 10%;
   color :red;
+
 }
 }
 .this-class {
@@ -27,7 +26,3 @@ h1 {
   padding: 60px;
   background-color: yellow;
 }
-  .code {
-
-    p font-stretch: 3px;
-  }
